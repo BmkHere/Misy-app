@@ -1,4 +1,4 @@
-script.js
+
 
 // Record button functionality
 document.getElementById('record-btn').addEventListener('click', () => {

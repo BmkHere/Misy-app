@@ -1,4 +1,4 @@
-service-worker.js
+
 
 // Cache the app shell
 const cacheName = 'misy-app-cache';

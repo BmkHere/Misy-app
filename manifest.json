@@ -1,4 +1,4 @@
-manifest.json      {
+               {
   "name": "Misy App",
   "short_name": "Misy",
   "start_url": "./",
